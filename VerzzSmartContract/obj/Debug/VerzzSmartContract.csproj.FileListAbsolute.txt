@@ -1,0 +1,7 @@
+c:\users\maxime\source\repos\VerzzSmartContract\VerzzSmartContract\bin\Debug\VerzzSmartContract.dll
+c:\users\maxime\source\repos\VerzzSmartContract\VerzzSmartContract\bin\Debug\VerzzSmartContract.pdb
+c:\users\maxime\source\repos\VerzzSmartContract\VerzzSmartContract\bin\Debug\Neo.SmartContract.Framework.dll
+c:\users\maxime\source\repos\VerzzSmartContract\VerzzSmartContract\obj\Debug\VerzzSmartContract.csproj.CoreCompileInputs.cache
+c:\users\maxime\source\repos\VerzzSmartContract\VerzzSmartContract\obj\Debug\VerzzSmartContract.dll
+c:\users\maxime\source\repos\VerzzSmartContract\VerzzSmartContract\obj\Debug\VerzzSmartContract.pdb
+C:\Users\Maxime\source\repos\VerzzSmartContract\VerzzSmartContract\obj\Debug\VerzzSmartContract.csprojResolveAssemblyReference.cache
