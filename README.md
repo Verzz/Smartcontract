@@ -10,6 +10,7 @@ integrations.
 # For Android
 Open the following link on your smartphone, and click on the download button.
 https://rink.hockeyapp.net/apps/1aafa68909ce4f2cadf1ae8e992cbf7e/app_versions/5
+
 Follow the process via the link, accept the access to your SD Card & location, and the
 download will start automatically.
 
