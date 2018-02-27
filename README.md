@@ -7,6 +7,16 @@ The application is currently available for download via HockeyApp, a platform he
 beta distribution, crash reporting, user metrics, feedback, and powerful workflow
 integrations.
 
+## Important !
+
+The password that you choose for the application has to contain :
+
+
+* 1 UPPERCASE char
+* 3 NUMBERS
+* 1 SPECIAL char
+* X LOWERCASE char
+
 # For Android
 Open the following link on your smartphone, and click on the download button.
 https://rink.hockeyapp.net/apps/1aafa68909ce4f2cadf1ae8e992cbf7e/app_versions/5
